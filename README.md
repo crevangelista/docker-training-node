@@ -1,2 +1,2 @@
 # docker-training-node
-Docker compose that works with containers: Node JS, NginX and MySQL
+Docker compose: Node JS, NginX and MySQL
